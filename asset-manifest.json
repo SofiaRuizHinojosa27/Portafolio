@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portafolio/./static/css/main.1a7a1f82.chunk.css",
-    "main.js": "/portafolio/./static/js/main.7aeec47f.chunk.js",
-    "main.js.map": "/portafolio/./static/js/main.7aeec47f.chunk.js.map",
-    "runtime~main.js": "/portafolio/./static/js/runtime~main.269cebfb.js",
-    "runtime~main.js.map": "/portafolio/./static/js/runtime~main.269cebfb.js.map",
-    "static/js/2.7ffbc2b6.chunk.js": "/portafolio/./static/js/2.7ffbc2b6.chunk.js",
-    "static/js/2.7ffbc2b6.chunk.js.map": "/portafolio/./static/js/2.7ffbc2b6.chunk.js.map",
-    "index.html": "/portafolio/./index.html",
-    "precache-manifest.7da3fcbec99233291ea956d5f3077365.js": "/portafolio/./precache-manifest.7da3fcbec99233291ea956d5f3077365.js",
-    "service-worker.js": "/portafolio/./service-worker.js",
-    "static/css/main.1a7a1f82.chunk.css.map": "/portafolio/./static/css/main.1a7a1f82.chunk.css.map",
-    "static/media/Sofi3.jpg": "/portafolio/./static/media/Sofi3.815522d4.jpg",
-    "static/media/SofiPhone.jpg": "/portafolio/./static/media/SofiPhone.4d0235c8.jpg",
-    "static/media/burguerQueen.png": "/portafolio/./static/media/burguerQueen.a79d944f.png",
-    "static/media/inBikeMe.png": "/portafolio/./static/media/inBikeMe.cccf6843.png",
-    "static/media/logo2.jpg": "/portafolio/./static/media/logo2.db5b1631.jpg"
+    "main.css": "/portafolio/static/css/main.1a7a1f82.chunk.css",
+    "main.js": "/portafolio/static/js/main.b7499786.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.b7499786.chunk.js.map",
+    "runtime~main.js": "/portafolio/static/js/runtime~main.41300385.js",
+    "runtime~main.js.map": "/portafolio/static/js/runtime~main.41300385.js.map",
+    "static/js/2.7ffbc2b6.chunk.js": "/portafolio/static/js/2.7ffbc2b6.chunk.js",
+    "static/js/2.7ffbc2b6.chunk.js.map": "/portafolio/static/js/2.7ffbc2b6.chunk.js.map",
+    "index.html": "/portafolio/index.html",
+    "precache-manifest.4805d01e6a1825f365903c1d08551e9c.js": "/portafolio/precache-manifest.4805d01e6a1825f365903c1d08551e9c.js",
+    "service-worker.js": "/portafolio/service-worker.js",
+    "static/css/main.1a7a1f82.chunk.css.map": "/portafolio/static/css/main.1a7a1f82.chunk.css.map",
+    "static/media/Sofi3.jpg": "/portafolio/static/media/Sofi3.815522d4.jpg",
+    "static/media/SofiPhone.jpg": "/portafolio/static/media/SofiPhone.4d0235c8.jpg",
+    "static/media/burguerQueen.png": "/portafolio/static/media/burguerQueen.a79d944f.png",
+    "static/media/inBikeMe.png": "/portafolio/static/media/inBikeMe.cccf6843.png",
+    "static/media/logo2.jpg": "/portafolio/static/media/logo2.db5b1631.jpg"
   }
 }
