@@ -2,7 +2,7 @@
   "name": "portafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sofiaruizhinojosa27.github.io/portafolio/.",
+  "homepage": "https://sofiaruizhinojosa27.github.io/portafolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
