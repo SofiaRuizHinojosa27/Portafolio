@@ -6,17 +6,19 @@ class Contact extends Component{
     render(){
         return(
         <div className="Contact">
+            <h1>Encuentrame en:</h1>
             <ul class="nav justify-content-center">
                 <li class="nav-item">
-                    <a class="nav-item" href="#">Github</a>
+                    <a class="nav-item" href="https://github.com/SofiaRuizHinojosa27" target="_blank"><i class="fab fa-github m-xl"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Linkend IN</a>
+                    <a class="nav-link" href="https://www.linkedin.com/in/dulcesofia-ruiz/" target="_blank"><i class="fab fa-linkedin xl"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Mail</a>
+                    <a class="nav-link" href="mailto:srh_19@hotmail.com"><i class="fas fa-envelope"></i></a>
                 </li>
-            </ul>     
+            </ul>  
+            <h4><i class="far fa-copyright"></i> Sofia Ruiz Hinojosa</h4>   
         </div>
         )
     }

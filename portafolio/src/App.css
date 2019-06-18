@@ -2,6 +2,7 @@
 .App {
   text-align: center;
   font-family: 'Poppins', sans-serif;
+  align-self: auto;
 }
 
 .App-logo {
@@ -48,6 +49,7 @@
 
 #navbarTogglerDemo01{
   background-color: gray;
+  padding: 1rem;
 }
 
 .Proyects{
@@ -59,7 +61,41 @@
   margin-top: 1rem;
 }
 
+.Contact{
+  height: 80%;
+  font-size: 400%;
+  justify-content: center;
+  align-content: space-around;
+}
+
+.card{
+  border-radius: 2rem;
+  border-block-style: solid;
+}
+
 @media (min-width: 576px) {
+  .profile{
+    display: block;
+  }
+
+  .profilePhone{
+    display: none;
+    border-radius: 1rem;
+    margin-left: 1rem;
+    
+    padding: 1rem;
+  }
+
+  #About{
+    align-self: auto;
+  }
+
+  .Proyects{
+    align-self: auto;
+  }
+}
+
+@media (min-width: 768px) {
   .profile{
     display: block;
   }
@@ -72,8 +108,6 @@
     padding: 1rem;
   }
 }
-
-@media (min-width: 768px) {}
 
 @media (min-width: 992px) {}
 

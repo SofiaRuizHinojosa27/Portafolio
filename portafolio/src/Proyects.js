@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
+import inBikeMe from './inBikeMe.png';
+import BurguerQueen from './burguerQueen.png';
 
 class Proyects extends Component{
     render(){
@@ -8,27 +10,27 @@ class Proyects extends Component{
             <h1 className="titleProyects">Mis Proyectos</h1>
             <div class="card-deck">
                 <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap"/>
+                    <img class="card-img-top" src={inBikeMe} alt="Card cap"/>
                         <div class="card-body">
-                        <h5 class="card-title">Título: IN-BIKE-ME</h5>
-                        <p class="card-text">Descripción: Es una web de un activista ecologico, que busca fomentar el uso de la bicicleta como medio de transporte y hacer una comunidad de ciclistas urbanos en GDL</p>
-                        <a href="https://sofiaruizhinojosa27.github.io/GDL002-data-lover/src/" target="_blank" class="btn btn-primary">Pruebalo</a>
+                        <h5 class="card-title">IN-BIKE-ME</h5>
+                        <p class="card-text">Es una web de un activista ecologico, que busca fomentar el uso de la bicicleta como medio de transporte y hacer una comunidad de ciclistas urbanos en GDL</p>
+                        <a href="https://sofiaruizhinojosa27.github.io/GDL002-data-lover/src/" target="_blank" className="btn btn-primary">Conocelo</a>
                         </div>
                 </div>
                 <div class="card">
-                  <img class="card-img-top" src="..." alt="Card image cap"/>
+                  <img class="card-img-top" src="..." alt="Card cap"/>
                     <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" target="_blank" class="btn btn-primary">Pruebalo</a>
+                    <h5 class="card-title">Veggie Cool</h5>
+                    <p class="card-text">Es una red social elaborada en React, pensada en veganos y vegetarianos que quieran compartir tips, restaurantes, recetas entre ellos, fomentando el que conecten entre si y encuentren mas personas interesadas en su mismo estilo de vida en su ciudad.</p>
+                    <a href="#" target="_blank" class="btn btn-primary">Conocelo</a>
                     </div>
                 </div>
                 <div class="card">
-                  <img class="card-img-top" src="..." alt="Card image cap"/>
+                  <img class="card-img-top" src={BurguerQueen} alt="Card cap"/>
                     <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                    <a href="#" target="_blank" class="btn btn-primary">Pruebalo</a>
+                    <h5 class="card-title">Burguer Queen</h5>
+                    <p class="card-text">Es una app creada en react para apoyar a meseros y cocineros de un restaurante de hamburguesas gourmet, en el cual pueden realizar la comanda desde una tablet y enviarla a cocina para su preparación</p>
+                    <a href="#" target="_blank" class="btn btn-primary">Conocelo</a>
                     </div>
                 </div>    
             </div>

@@ -8,12 +8,12 @@ class About extends Component{
         return(
         <div className="About" id="About">
             <div className="media">
-                <img className="profile" src={Profile}/>
+                <img className="profile" src={Profile} alt="profile"/>
                     <div className="media-body">
                         <h1 className="mt-0">Acerca de mí</h1>
                         <p>Emprendedora de corazón, apasionada por el nuevo conocimiento, mi mayor motivación es crecer profesionalmente, y alcanzar la mejor versión de mí mediante la experiencia.</p>
                         <p className="mb-0">Me gusta ver la vida con alegría y me entusiasma hacer una diferencia positiva con quienes me rodean.</p>
-                        <img className="profilePhone" src={ProfilePhone}/>
+                        <img className="profilePhone" src={ProfilePhone} alt="profile"/>
                     </div>
             </div>        
         </div>
