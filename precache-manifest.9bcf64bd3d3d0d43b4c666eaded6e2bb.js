@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab102a9e3a8c74b8186e868a8b807656",
+    "revision": "194eb8c8b0dd843e2c5c37fd8e76fbef",
     "url": "/portafolio/index.html"
   },
   {
-    "revision": "9e60b2dd5f45a7e619c1",
-    "url": "/portafolio/static/css/main.1a7a1f82.chunk.css"
+    "revision": "b73a6b171e3b9ce78e01",
+    "url": "/portafolio/static/css/main.a42ff92a.chunk.css"
   },
   {
-    "revision": "5608ba5603e90396ac6b",
-    "url": "/portafolio/static/js/2.7ffbc2b6.chunk.js"
+    "revision": "2785dc34fea951569815",
+    "url": "/portafolio/static/js/2.c2e19106.chunk.js"
   },
   {
-    "revision": "9e60b2dd5f45a7e619c1",
-    "url": "/portafolio/static/js/main.b7499786.chunk.js"
+    "revision": "b73a6b171e3b9ce78e01",
+    "url": "/portafolio/static/js/main.4df640f3.chunk.js"
   },
   {
     "revision": "9fd29bcc1d4ba73bed23",
@@ -36,7 +36,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portafolio/static/media/inBikeMe.cccf6843.png"
   },
   {
-    "revision": "db5b16313b3efd637a22c9d1fadfcf4b",
-    "url": "/portafolio/static/media/logo2.db5b1631.jpg"
+    "revision": "9439336dc0f7059b7bc0f3183640f461",
+    "url": "/portafolio/static/media/logo2.9439336d.jpg"
+  },
+  {
+    "revision": "8de837018053077b5747a07c732d03f2",
+    "url": "/portafolio/static/media/veggie.8de83701.jpg"
   }
 ]);

@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.1a7a1f82.chunk.css",
-    "main.js": "/portafolio/static/js/main.b7499786.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.b7499786.chunk.js.map",
+    "main.css": "/portafolio/static/css/main.a42ff92a.chunk.css",
+    "main.js": "/portafolio/static/js/main.4df640f3.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.4df640f3.chunk.js.map",
     "runtime~main.js": "/portafolio/static/js/runtime~main.41300385.js",
     "runtime~main.js.map": "/portafolio/static/js/runtime~main.41300385.js.map",
-    "static/js/2.7ffbc2b6.chunk.js": "/portafolio/static/js/2.7ffbc2b6.chunk.js",
-    "static/js/2.7ffbc2b6.chunk.js.map": "/portafolio/static/js/2.7ffbc2b6.chunk.js.map",
+    "static/js/2.c2e19106.chunk.js": "/portafolio/static/js/2.c2e19106.chunk.js",
+    "static/js/2.c2e19106.chunk.js.map": "/portafolio/static/js/2.c2e19106.chunk.js.map",
     "index.html": "/portafolio/index.html",
-    "precache-manifest.4805d01e6a1825f365903c1d08551e9c.js": "/portafolio/precache-manifest.4805d01e6a1825f365903c1d08551e9c.js",
+    "precache-manifest.9bcf64bd3d3d0d43b4c666eaded6e2bb.js": "/portafolio/precache-manifest.9bcf64bd3d3d0d43b4c666eaded6e2bb.js",
     "service-worker.js": "/portafolio/service-worker.js",
-    "static/css/main.1a7a1f82.chunk.css.map": "/portafolio/static/css/main.1a7a1f82.chunk.css.map",
+    "static/css/main.a42ff92a.chunk.css.map": "/portafolio/static/css/main.a42ff92a.chunk.css.map",
     "static/media/Sofi3.jpg": "/portafolio/static/media/Sofi3.815522d4.jpg",
     "static/media/SofiPhone.jpg": "/portafolio/static/media/SofiPhone.4d0235c8.jpg",
     "static/media/burguerQueen.png": "/portafolio/static/media/burguerQueen.a79d944f.png",
     "static/media/inBikeMe.png": "/portafolio/static/media/inBikeMe.cccf6843.png",
-    "static/media/logo2.jpg": "/portafolio/static/media/logo2.db5b1631.jpg"
+    "static/media/logo2.jpg": "/portafolio/static/media/logo2.9439336d.jpg",
+    "static/media/veggie.jpg": "/portafolio/static/media/veggie.8de83701.jpg"
   }
 }
