@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import './App.css';
 import inBikeMe from './inBikeMe.png';
 import BurguerQueen from './burguerQueen.png';
-
+import Veggie from './veggie.jpg';
 class Proyects extends Component{
     render(){
         return(
@@ -14,15 +14,15 @@ class Proyects extends Component{
                         <div class="card-body">
                         <h5 class="card-title">IN-BIKE-ME</h5>
                         <p class="card-text">Es una web de un activista ecologico, que busca fomentar el uso de la bicicleta como medio de transporte y hacer una comunidad de ciclistas urbanos en GDL</p>
-                        <a href="https://sofiaruizhinojosa27.github.io/GDL002-data-lover/src/" target="_blank" className="btn btn-primary">Conocelo</a>
+                        <a href="https://sofiaruizhinojosa27.github.io/GDL002-data-lover/src/" target="_blank" className="btn btn-light">Conocelo</a>
                         </div>
                 </div>
                 <div class="card">
-                  <img class="card-img-top" src="..." alt="Card cap"/>
+                  <img class="card-img-top" src={Veggie} alt="Card cap"/>
                     <div class="card-body">
-                    <h5 class="card-title">Veggie Cool</h5>
+                    <h5 class="card-title">Veggie Community</h5>
                     <p class="card-text">Es una red social elaborada en React, pensada en veganos y vegetarianos que quieran compartir tips, restaurantes, recetas entre ellos, fomentando el que conecten entre si y encuentren mas personas interesadas en su mismo estilo de vida en su ciudad.</p>
-                    <a href="#" target="_blank" class="btn btn-primary">Conocelo</a>
+                    <a href="#" target="_blank" class="btn btn-light">Conocelo</a>
                     </div>
                 </div>
                 <div class="card">
@@ -30,7 +30,7 @@ class Proyects extends Component{
                     <div class="card-body">
                     <h5 class="card-title">Burguer Queen</h5>
                     <p class="card-text">Es una app creada en react para apoyar a meseros y cocineros de un restaurante de hamburguesas gourmet, en el cual pueden realizar la comanda desde una tablet y enviarla a cocina para su preparación</p>
-                    <a href="#" target="_blank" class="btn btn-primary">Conocelo</a>
+                    <a href="https://sofiaruizhinojosa27.github.io/burger-queen/#/" target="_blank" class="btn btn-light">Conocelo</a>
                     </div>
                 </div>    
             </div>

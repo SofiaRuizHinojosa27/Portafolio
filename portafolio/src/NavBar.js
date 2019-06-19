@@ -7,20 +7,20 @@ class NavBar extends Component{
         return(
         <div className="NavBar">
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                <span className="navbar-toggler-icon"></span>
-            </button>
-        <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <a className="navbar-brand" href="#About">Acerca de mí</a>
+            <div id="navbarTogglerDemo01" >
+            
             <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li>
+                <a className="navbar-brand" href="#About">   Acerca de mí   </a>
+                </li>
               <li className="nav-item active">
-            <a className="navbar-brand" href="#Proyects">Mis proyectos <span class="sr-only">(current)</span></a>
+            <a className="navbar-brand" href="#Proyects">   Mis proyectos   </a>
               </li>
             <li className="nav-item active">
-            <a className="navbar-brand" href="#">Contactme!!</a>
+            <a className="navbar-brand" href="#Contact">   Contactme!!   </a>
             </li>
-            </ul>
-        </div>    
+            </ul> 
+            </div>    
         </nav>     
         </div>
         )

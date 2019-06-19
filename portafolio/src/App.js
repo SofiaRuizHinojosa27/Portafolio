@@ -10,19 +10,15 @@ import Contact from './Contact';
 function App() {
   return (
     <div className="App">
-      <div className="navSticky">
-      <NavBar/>
-      </div>
       <header className="App-header">
         <img src={logo2} className="App-logo"/>
       </header>
-      
+      <NavBar/>
       <About/>
       <Skills/>
       <Proyects/>
       <Contact/>
     </div>
-
   );
 }
 

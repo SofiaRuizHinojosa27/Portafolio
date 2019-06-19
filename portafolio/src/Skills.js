@@ -11,7 +11,7 @@ class Skills extends Component{
                     <div class="col">
                         <div class="jumbotron jumbotron-fluid">
                             <div class="container">
-                                <h1 class="display-4">Soft Skills<i class="fas fa-users"></i></h1>
+                                <h2 class="display-4">Soft Skills<i class="fas fa-users"></i></h2>
                                 <p class="lead">Comunicacion asertiva</p>
                                 <p class="lead">Adaptable</p>
                                 <p class="lead">Solución de problemas</p>
@@ -23,7 +23,7 @@ class Skills extends Component{
                     <div class="col">
                     <div class="jumbotron jumbotron-fluid">
                             <div class="container">
-                                <h1 class="display-4">Tech Skills<i class="fas fa-chalkboard-teacher"></i></h1>
+                                <h2 class="display-4">Tech Skills<i class="fas fa-chalkboard-teacher"></i></h2>
                                 <p class="lead">Javascript</p>
                                 <p class="lead">React</p>
                                 <p class="lead">Html</p>

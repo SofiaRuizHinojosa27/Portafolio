@@ -27,17 +27,27 @@
   color: #61dafb;
 }
 
+h1{
+  background-color: #20B2AA;
+  color:white;
+}
+
+i{
+  color:navy;
+}
+
 .profile{
   margin: 2rem 2rem 2rem 2rem;
   width: 30%;
   height: 30%;
   border-radius: 1rem;
   display:none;
+  flex-shrink: inherit;
 }
 
 .profilePhone{
   display: block;
-  border-radius: 1rem;
+  border-radius: 2rem;
   align-content: center;
   padding: 1rem;
 }
@@ -48,8 +58,10 @@
 }
 
 #navbarTogglerDemo01{
-  background-color: gray;
+  background-color:	#20B2AA;
   padding: 1rem;
+  width: 100%;
+  align-content: space-around;
 }
 
 .Proyects{
@@ -70,7 +82,15 @@
 
 .card{
   border-radius: 2rem;
-  border-block-style: solid;
+  background-color: #9370DB;
+}
+
+.aboutText{
+  color:	#191970;
+}
+
+.jumbotron{
+  background-color: #00BFFF;
 }
 
 @media (min-width: 576px) {
@@ -105,6 +125,11 @@
     border-radius: 1rem;
     margin-left: 1rem;
     align-content: center;
+    padding: 1rem;
+  }
+
+  #navbarTogglerDemo01{
+    background-color:	#20B2AA;
     padding: 1rem;
   }
 }

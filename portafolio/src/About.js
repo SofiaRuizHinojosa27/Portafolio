@@ -10,10 +10,10 @@ class About extends Component{
             <div className="media">
                 <img className="profile" src={Profile} alt="profile"/>
                     <div className="media-body">
-                        <h1 className="mt-0">Acerca de mí</h1>
+                    <img className="profilePhone" src={ProfilePhone} alt="profile"/>
+                        <h2 className="aboutText">Acerca de mí</h2>
                         <p>Emprendedora de corazón, apasionada por el nuevo conocimiento, mi mayor motivación es crecer profesionalmente, y alcanzar la mejor versión de mí mediante la experiencia.</p>
-                        <p className="mb-0">Me gusta ver la vida con alegría y me entusiasma hacer una diferencia positiva con quienes me rodean.</p>
-                        <img className="profilePhone" src={ProfilePhone} alt="profile"/>
+                        <p className="mb-0">Me gusta ver la vida con alegría y me entusiasma hacer una diferencia positiva con quienes me rodean.</p>  
                     </div>
             </div>        
         </div>

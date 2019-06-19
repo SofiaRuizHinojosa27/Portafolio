@@ -5,7 +5,7 @@ import './App.css';
 class Contact extends Component{
     render(){
         return(
-        <div className="Contact">
+        <div className="Contact" id="Contact">
             <h1>Encuentrame en:</h1>
             <ul class="nav justify-content-center">
                 <li class="nav-item">
