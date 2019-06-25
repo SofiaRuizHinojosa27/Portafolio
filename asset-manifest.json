@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sofiaruiz.github.io/static/css/main.a42ff92a.chunk.css",
+    "main.js": "/sofiaruiz.github.io/static/js/main.f44b5504.chunk.js",
+    "main.js.map": "/sofiaruiz.github.io/static/js/main.f44b5504.chunk.js.map",
+    "runtime~main.js": "/sofiaruiz.github.io/static/js/runtime~main.589f740b.js",
+    "runtime~main.js.map": "/sofiaruiz.github.io/static/js/runtime~main.589f740b.js.map",
+    "static/js/2.c2e19106.chunk.js": "/sofiaruiz.github.io/static/js/2.c2e19106.chunk.js",
+    "static/js/2.c2e19106.chunk.js.map": "/sofiaruiz.github.io/static/js/2.c2e19106.chunk.js.map",
+    "index.html": "/sofiaruiz.github.io/index.html",
+    "precache-manifest.dee2f848ef29e2f34f6debc8389189da.js": "/sofiaruiz.github.io/precache-manifest.dee2f848ef29e2f34f6debc8389189da.js",
+    "service-worker.js": "/sofiaruiz.github.io/service-worker.js",
+    "static/css/main.a42ff92a.chunk.css.map": "/sofiaruiz.github.io/static/css/main.a42ff92a.chunk.css.map",
+    "static/media/Sofi3.jpg": "/sofiaruiz.github.io/static/media/Sofi3.815522d4.jpg",
+    "static/media/SofiPhone.jpg": "/sofiaruiz.github.io/static/media/SofiPhone.2cf2450d.jpg",
+    "static/media/burguerQueen.png": "/sofiaruiz.github.io/static/media/burguerQueen.a79d944f.png",
+    "static/media/inBikeMe.png": "/sofiaruiz.github.io/static/media/inBikeMe.cccf6843.png",
+    "static/media/logo2.jpg": "/sofiaruiz.github.io/static/media/logo2.9439336d.jpg",
+    "static/media/veggie.jpg": "/sofiaruiz.github.io/static/media/veggie.8de83701.jpg"
+  }
+}
