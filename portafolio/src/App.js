@@ -6,6 +6,7 @@ import NavBar from './NavBar';
 import Proyects from './Proyects';
 import Skills from './Skills';
 import Contact from './Contact';
+import NavBarSticky from './navBarSticky';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <header className="App-header">
         <img src={logo2} className="App-logo"/>
       </header>
+      <NavBarSticky/>
       <NavBar/>
       <About/>
       <Skills/>
